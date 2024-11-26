@@ -10,7 +10,7 @@ In this article, I describe how to create a complete Rust development environmen
 
 For those who are very impatient, the link to the github repository is given in the conclusion.
 
-
+                           
 ## Create a portable development environment
 
 To begin we are going to create a Dockerfile containing all the necessary tools to program in Rust. This is how this Dockerfile looks like:
